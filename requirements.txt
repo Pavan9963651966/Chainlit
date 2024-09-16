@@ -1,0 +1,4 @@
+chainlit
+langchain_groq
+python-dotenv
+-e .
